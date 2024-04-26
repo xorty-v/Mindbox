@@ -12,12 +12,12 @@
 
 — Проверку на то, является ли треугольник прямоугольным 
 
-Библиотека - [тут](https://github.com/xorty-v/MindboxTask/tree/master/MindboxTask)
+Библиотека - [тут](https://github.com/xorty-v/Mindbox/tree/master/MindboxTask)
 
-Unit-тесты - [тут](https://github.com/xorty-v/MindboxTask/tree/master/MindboxTask.Tests)
+Unit-тесты - [тут](https://github.com/xorty-v/Mindbox/tree/master/MindboxTask.Tests)
 
 ## SQL
 
 В базе данных MS SQL Server есть продукты и категории. Одному продукту может соответствовать много категорий, в одной категории может быть много продуктов. Напишите SQL запрос для выбора всех пар «Имя продукта – Имя категории». Если у продукта нет категорий, то его имя все равно должно выводиться.
 
-Запрос - [тут](https://github.com/xorty-v/MindboxTask/blob/master/query.sql)
+Запрос - [тут](https://github.com/xorty-v/Mindbox/blob/master/query.sql)
